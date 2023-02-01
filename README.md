@@ -8,5 +8,7 @@ TELECOM CUSTOMER CHURN PREDICTION USING MACHINE LEARNING
  
  
 🟢 For EDA, please refer to : Churn Analysis - EDA.ipynb
+
 🟢 For Model Building, please refer to: Churn Analysis - Model Building.ipynb
+
 🟢 For Model Deployment, please refer to app.py
